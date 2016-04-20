@@ -1,4 +1,4 @@
-package com.testerstories;
+package com.symbiote.login;
 
 import static org.junit.Assert.assertEquals;
 
