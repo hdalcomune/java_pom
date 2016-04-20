@@ -1,0 +1,5 @@
+com/testerstories/LoginSteps.class
+com/testerstories/pages/NavigationPage.class
+com/testerstories/pages/BasePage.class
+com/testerstories/pages/LoginPage.class
+com/testerstories/TestRunner.class
